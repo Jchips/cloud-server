@@ -9,6 +9,6 @@ describe('Server test', () => {
     const response = await request.get('/');
 
     expect(response.status).toBe(200);
-    expect(response.text).toEqual('default route is working');
+    expect(response.text).toEqual('default route is working!');
   });
 });
