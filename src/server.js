@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 app.get('/', (req, res, next) => {
-  res.status(200).send('default route is working');
+  res.status(200).send('default route is working!');
 });
 
 function start() {
