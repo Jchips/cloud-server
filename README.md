@@ -21,7 +21,7 @@ Task 2:
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/Jchips/cloud-server/actions)
-- [Pull Request](https://github.com/Jchips/cloud-server/pull/1)
+- [Pull Request](https://github.com/Jchips/cloud-server/pull/2)
 - [GUI deploy](http://lab-16-env.eba-xdbdp7xd.us-west-2.elasticbeanstalk.com/)
 - [CLI deploy](http://lab-16-env5.eba-3fm7mpzt.us-west-2.elasticbeanstalk.com/)
 
@@ -44,7 +44,7 @@ What was my key takeaway?
 
 Pull requests:
 
-- <https://github.com/Jchips/cloud-server/pull/1>
+- <https://github.com/Jchips/cloud-server/pull/2>
 
 #### Tests
 
